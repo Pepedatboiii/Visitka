@@ -296,7 +296,7 @@ margin-top: 15px;
 
 }
 .Main_list:hover{
-    color: #1E1E1E;
+    color: green;
     margin-left: 300px;
     font-size:20px;
 }
@@ -306,7 +306,7 @@ margin-top: 15px;
     font-size: 20px;
 }
 .Opisanie:hover{
-    color: #1E1E1E;
+    color: green;
     margin-left: 40px;
     font-size: 20px;
 }
@@ -316,7 +316,7 @@ margin-top: 15px;
     font-size: 20px;
 }
 .Zakaz:hover{
-    color: #1E1E1E;
+    color: green;
     margin-left: 40px;
     font-size: 20px;
 }
